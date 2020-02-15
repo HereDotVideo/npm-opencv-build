@@ -27,9 +27,9 @@
     "npmlog": "^4.1.2"
   },
   "devDependencies": {
-    "@types/node": "^12.7.4",
+    "@types/node": "^13.7.1",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
-    "typescript": "^3.6.2"
+    "mocha": "^7.0.1",
+    "typescript": "^3.7.5"
   }
 }
